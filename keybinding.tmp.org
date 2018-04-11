@@ -1,0 +1,17 @@
+* Keybindings
+** EXWM
+| keys    | FUNCTIONALITY           |
+|---------+-------------------------|
+| s-r     | exwm rest               |
+| s-k     | delete workspace        |
+| s-w     | swap workspace          |
+| s-[0-9] | switch/create workspace |
+| s-&     | app Launcher            |
+| C-q     | tryout                  |
+| C-q    |                         |
+ 
+*** dmenu
+| keys  | FUNCTIONALITY |
+|-------+---------------|
+| s-SPC | dmenu         |
+|       |               |
